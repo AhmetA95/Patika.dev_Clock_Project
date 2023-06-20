@@ -27,4 +27,34 @@ This web application shows the current time and a personalized greeting message.
 
 This project was created as a part of the Kodluyoruz Javascript Patikası.
 
-![Clock Project Page](C:\Users\Acer\Desktop\clock_projesi_patika.dev\Kodluyoruz-Javascript-Saat-Ödevi "Clock Project Page")
+
+
+# Saat ve Karşılama
+
+JavaScript kullanılarak saat ve karşılama mesajı gösteren basit bir web uygulaması yazdım.
+
+## Açıklama
+
+Bu web uygulaması, şu anki saati ve kişiselleştirilmiş bir karşılama mesajını göstmektedir. Özellikleri aşağıdaki gibidir:
+
+- Saati, dakikaları, saniyeleri ve haftanın gününü gösterir.
+- Kullanıcıdan isim ister ve kişiselleştirilmiş bir karşılama mesajı görüntüler.
+- "Ödevindesiniz" metninden sonra her saniyede bir noktalama işareti güncellenir.
+
+## Kullanım
+
+1. `index.html` dosyasını bir web tarayıcısında açın.
+2. Çıkan kutucuğa adınızı girin.
+3. Saat şu anki saati gösterecek ve bir karşılama mesajı görüntülenecektir.
+
+## Dosya Yapısı
+
+- `index.html`: Ana HTML dosyası.
+- `css/style.css`: Stil için CSS dosyası.
+- `js/clock.js`: Saat işlevselliği için JavaScript dosyası.
+
+## Teşekkürler
+
+Bu projeyi, Kodluyoruz Javascript Patikası'nın bir parçası olarak oluşturdum.
+
+
